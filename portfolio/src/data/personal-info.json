@@ -1,0 +1,1033 @@
+{
+  "personal": {
+    "name": "Tran Huu Dan",
+    "nickname": "DanTH",
+    "title": "AI & Software Engineer",
+    "company": "FPT Software",
+    "location": "Ho Chi Minh, Viet Nam",
+    "email": "dan.tran.dev.2002@gmail.com",
+    "phone": "+84-377162712",
+    "tagline": [
+      "Generative AI Engineer",
+      "Full-Stack Developer",
+      "Researcher in NLP & RAG",
+      "Java Backend Developer",
+      "React.js Frontend Developer"
+    ],
+    "bio": "I architect intelligent solutions at the intersection of AI and full-stack development. From building accessibility-first applications to automating complex workflows, I transform ideas into impactful digital experiences.",
+    "closingBio": "Ready to collaborate on something extraordinary? I'm always excited to connect with fellow innovators, explore cutting-edge projects, and push the boundaries of what's possible with technology. Let's build the future together.",
+    "story": [
+      "With over 4 years of experience in full-stack development and more than 2 years of experience in AI/ML Engineering, I've had the privilege of working with vibrant teams across enterprise companies, building everything from MVPs to large-scale applications serving millions of users.",
+      "My journey has been defined by creating meaningful impact through technology. From research publications to innovation competitions, I've consistently focused on building solutions that genuinely improve people's lives. Whether working on accessibility, security, or wellness applications, I'm driven by the belief that technology should be both powerful and purposeful."
+    ],
+    "profileImage": "/me.jpg"
+  },
+  "stats": {
+    "projects": "20+",
+    "yearsExperience": "4+",
+    "technologiesMastered": "30+"
+  },
+  "social": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/danth-ai-swe",
+      "username": "danth-ai-swe"
+    },
+    "github": {
+      "url": "https://github.com/danth-ai-swe",
+      "username": "danth-ai-swe"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/tranhuudan-fullstack-ai-engineer",
+      "username": "tranhuudan-fullstack-ai-engineer"
+    },
+    "email": "mailto:dan.tran.dev.2002@gmail.com",
+    "phone": "tel:+84377162712",
+    "resume": "https://docs.google.com/document/d/1as45GeUei66Qx-rXJ155mrd94tmNK6-ofOmjjAoOizE"
+  },
+  "education": {
+    "degree": "Bachelor of Information technology",
+    "institution": "Nong Lam University",
+    "duration": "Sep 2020 – Sep 2024",
+    "location": "Ho Chi Minh, Viet Nam"
+  },
+  "skills": {
+    "languages": [
+      {
+        "name": "Java",
+        "experience": "4+ years",
+        "context": "Backend and microservices development",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      },
+      {
+        "name": "Javascript",
+        "experience": "4+ years",
+        "context": "Frontend and full-stack web development",
+        "icon": "https://icon2.cleanpng.com/20180810/ekz/11448a7a96ee808a3cdbaf0df9570976.webp"
+      },
+      {
+        "name": "TypeScript",
+        "experience": "3+ years",
+        "context": "Strong typing in modern React/NestJS apps",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      },
+      {
+        "name": "Python",
+        "experience": "3+ years",
+        "context": "AI/ML, NLP, and automation tools",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      },
+      {
+        "name": "Golang",
+        "experience": "1+ year",
+        "context": "Building high-performance APIs",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+      },
+      {
+        "name": "SQL",
+        "experience": "4+ years",
+        "context": "Database querying and optimization",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/330px-Sql_data_base_with_logo.png"
+      }
+    ],
+    "data_processing": [
+      {
+        "name": "NumPy",
+        "experience": "3+ years",
+        "context": "Numerical computation and data transformation",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+      },
+      {
+        "name": "Pandas",
+        "experience": "3+ years",
+        "context": "Data analysis and preprocessing",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+      },
+      {
+        "name": "Seaborn",
+        "experience": "2+ years",
+        "context": "Statistical data visualization",
+        "icon": "https://cdn.worldvectorlogo.com/logos/seaborn-1.svg"
+      },
+      {
+        "name": "Matplotlib",
+        "experience": "2+ years",
+        "context": "Data visualization and reporting",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png"
+      },
+      {
+        "name": "Selenium",
+        "experience": "3+ years",
+        "context": "Automated web application testing framework for QA and CI/CD pipelines",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"
+      }
+    ],
+    "ai_ml": [
+      {
+        "name": "Scikit-learn",
+        "experience": "2+ years",
+        "context": "Classical ML model building and evaluation",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
+      },
+      {
+        "name": "PyTorch",
+        "experience": "2+ years",
+        "context": "Deep learning and fine-tuning models",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+      },
+      {
+        "name": "TensorFlow",
+        "experience": "1+ year",
+        "context": "Building neural network models",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+      },
+      {
+        "name": "Keras",
+        "experience": "1+ year",
+        "context": "High-level neural network APIs",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"
+      }
+    ],
+    "nlp_llm": [
+      {
+        "name": "Hugging Face",
+        "experience": "1+ year",
+        "context": "Transformers and model hub integration",
+        "icon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/huggingface-icon.png"
+      },
+      {
+        "name": "Transformers",
+        "experience": "1+ year",
+        "context": "Fine-tuning and text generation",
+        "icon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/huggingface-icon.png"
+      },
+      {
+        "name": "LangChain",
+        "experience": "1+ year",
+        "context": "Building LLM-powered applications",
+        "icon": "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png"
+      },
+      {
+        "name": "LangGraph",
+        "experience": "1+ year",
+        "context": "Composable LLM graph workflows",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbjDXaLBCvwMrFCVWw-Nna1wMgF7LLur-XgQ&s"
+      },
+      {
+        "name": "LangSmith",
+        "experience": "1+ year",
+        "context": "LLM tracing and evaluation",
+        "icon": "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langsmith.png"
+      },
+      {
+        "name": "LLamaIndex",
+        "experience": "1+ year",
+        "context": "RAG system and vector integration",
+        "icon": "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png"
+      },
+      {
+        "name": "SentenceTransformers",
+        "experience": "1+ year",
+        "context": "Embedding and semantic search",
+        "icon": "https://cdn.prod.website-files.com/65b8f370a600366bc7cf9b20/668543c74805060f635f0a63_Group%201000007772%20(1).png"
+      },
+      {
+        "name": "RAG",
+        "experience": "1+ year",
+        "context": "Retrieval-augmented generation system",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/RAG_Aktiengesellschaft.svg/2839px-RAG_Aktiengesellschaft.svg.png"
+      },
+      {
+        "name": "PEFT",
+        "experience": "1+ year",
+        "context": "Parameter-efficient model fine-tuning",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      },
+      {
+        "name": "LoRA",
+        "experience": "1+ year",
+        "context": "Low-rank adaptation for LLMs",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      }
+    ],
+    "analyze_design": [
+      {
+        "name": "OOP",
+        "experience": "4+ years",
+        "context": "Core design principle in all projects",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      },
+      {
+        "name": "SOLID",
+        "experience": "3+ years",
+        "context": "Maintainable software architecture",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      },
+      {
+        "name": "Design Pattern",
+        "experience": "3+ years",
+        "context": "Reusable and extensible code design",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqo8kpH10asNWQUrgYG_Qo67GnhVuWcgNmOQ&s"
+      },
+      {
+        "name": "Design System",
+        "experience": "2+ years",
+        "context": "Frontend component architecture",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqo8kpH10asNWQUrgYG_Qo67GnhVuWcgNmOQ&s"
+      },
+      {
+        "name": "Microservices Architecture",
+        "experience": "3+ years",
+        "context": "Distributed backend system design",
+        "icon": "https://cdn-icons-png.freepik.com/256/14219/14219087.png?semt=ais_white_label"
+      },
+      {
+        "name": "UML Diagrams",
+        "experience": "2+ years",
+        "context": "System and process visualization",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/1280px-UML_logo.svg.png"
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "Spring Boot",
+        "experience": "4+ years",
+        "context": "REST APIs and enterprise backends",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+      },
+      {
+        "name": "FastAPI",
+        "experience": "2+ years",
+        "context": "High-performance Python web APIs",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+      },
+      {
+        "name": "Fiber",
+        "experience": "1+ year",
+        "context": "Lightweight Go web framework",
+        "icon": "https://static.cdnlogo.com/logos/g/35/golang.svg"
+      },
+      {
+        "name": "NestJS",
+        "experience": "2+ years",
+        "context": "Scalable Node.js backend framework",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
+      },
+      {
+        "name": "NextJS",
+        "experience": "3+ years",
+        "context": "Full-stack React SSR/SSG apps",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+      },
+      {
+        "name": "React",
+        "experience": "4+ years",
+        "context": "Frontend development and UI design",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      }
+    ],
+    "mlops": [
+      {
+        "name": "Docker",
+        "experience": "3+ years",
+        "context": "Containerized application deployment",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+      },
+      {
+        "name": "MLflow",
+        "experience": "1+ year",
+        "context": "Model tracking and experiment management",
+        "icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ml-flow-wordmark-dark.png"
+      },
+      {
+        "name": "DVC",
+        "experience": "1+ year",
+        "context": "Data and model versioning for ML pipelines",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png"
+      },
+      {
+        "name": "Wandb",
+        "experience": "1+ year",
+        "context": "Model performance tracking and visualization",
+        "icon": "https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/66d869126dc9da65a47f4a58_wandb.png"
+      },
+      {
+        "name": "Jenkins",
+        "experience": "2+ years",
+        "context": "CI/CD automation and DevOps pipelines",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
+      },
+      {
+        "name": "Apache Tomcat",
+        "experience": "3+ years",
+        "context": "Java servlet container and web server for enterprise deployments",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg"
+      },
+      {
+        "name": "Nginx",
+        "experience": "3+ years",
+        "context": "High-performance web server and reverse proxy for load balancing",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+      }
+    ],
+    "infrastructure": [
+      {
+        "name": "Memcached",
+        "experience": "2+ years",
+        "context": "Caching for distributed systems",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/memcached/memcached-original.svg"
+      },
+      {
+        "name": "RabbitMQ",
+        "experience": "2+ years",
+        "context": "Message broker for async communication",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"
+      },
+      {
+        "name": "Kafka",
+        "experience": "2+ years",
+        "context": "Event streaming and real-time processing",
+        "icon": "https://openwhisk.apache.org/images/icons/icon-kafka-white-trans.png"
+      },
+      {
+        "name": "Grafana",
+        "experience": "2+ years",
+        "context": "Monitoring and dashboard visualization",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"
+      },
+      {
+        "name": "Prometheus",
+        "experience": "2+ years",
+        "context": "System metrics collection and alerting",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"
+      },
+      {
+        "name": "Swagger",
+        "experience": "3+ years",
+        "context": "API documentation, testing, and design using OpenAPI specification",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"
+      }
+    ],
+    "databases": [
+      {
+        "name": "MySQL",
+        "experience": "4+ years",
+        "context": "Relational data modeling",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      },
+      {
+        "name": "PostgreSQL",
+        "experience": "3+ years",
+        "context": "Advanced SQL and schema design",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+      },
+      {
+        "name": "MongoDB",
+        "experience": "3+ years",
+        "context": "NoSQL document storage",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+      },
+      {
+        "name": "Redis",
+        "experience": "3+ years",
+        "context": "Caching and session management",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+      },
+      {
+        "name": "Weaviate",
+        "experience": "1+ year",
+        "context": "Vector database for semantic search",
+        "icon": "https://avatars.githubusercontent.com/u/37794290?s=200&v=4"
+      },
+      {
+        "name": "Qdrant",
+        "experience": "1+ year",
+        "context": "RAG and vector similarity search",
+        "icon": "https://qdrant.tech/img/brand-resources-logos/logomark.svg"
+      }
+    ],
+    "cloud_os": [
+      {
+        "name": "AWS",
+        "experience": "2+ years",
+        "context": "Cloud infrastructure and services",
+        "icon": "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/aws-color.png"
+      },
+      {
+        "name": "Azure ML",
+        "experience": "1+ year",
+        "context": "ML model training and deployment",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+      },
+      {
+        "name": "Linux",
+        "experience": "4+ years",
+        "context": "System administration and scripting",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+      },
+      {
+        "name": "Git",
+        "experience": "4+ years",
+        "context": "Version control and collaboration",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      },
+      {
+        "name": "CI/CD",
+        "experience": "2+ years",
+        "context": "Automated build and deployment pipelines",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg"
+      }
+    ],
+    "front_end": [
+      {
+        "name": "HTML",
+        "experience": "4+ years",
+        "context": "Building semantic web structure and accessibility",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      },
+      {
+        "name": "CSS",
+        "experience": "4+ years",
+        "context": "Designing responsive and modern user interfaces",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      },
+      {
+        "name": "Sass",
+        "experience": "3+ years",
+        "context": "Advanced CSS preprocessor for scalable and maintainable styling",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+      },
+      {
+        "name": "Redux",
+        "experience": "2+ years",
+        "context": "State management for scalable React applications",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+      },
+      {
+        "name": "TailwindCSS",
+        "experience": "2+ years",
+        "context": "Utility-first CSS framework for rapid and responsive UI design",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"
+      },
+      {
+        "name": "Bootstrap",
+        "experience": "3+ years",
+        "context": "Responsive CSS framework for front-end development",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+      },
+
+      {
+        "name": "jQuery",
+        "experience": "4+ years",
+        "context": "Javascript library for DOM manipulation, AJAX, and event handling",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+      },
+      {
+        "name": "Ant Design (AntD)",
+        "experience": "2+ years",
+        "context": "React UI framework with rich components and enterprise-level design system",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg"
+      },
+      {
+        "name": "shadcn/ui",
+        "experience": "1+ year",
+        "context": "Modern UI component library built on top of Radix and TailwindCSS for React and Next.js",
+        "icon": "https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/android-chrome-512x512.png"
+      }
+    ],
+    "tools": [
+      {
+        "name": "IntelliJ IDEA",
+        "experience": "4+ years",
+        "context": "Primary IDE for Java and Spring-based backend development",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
+      },
+      {
+        "name": "PyCharm",
+        "experience": "3+ years",
+        "context": "IDE for Python and AI/ML development by JetBrains",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
+      },
+      {
+        "name": "WebStorm",
+        "experience": "3+ years",
+        "context": "IDE for Javascript, TypeScript, and modern frontend frameworks",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg"
+      },
+      {
+        "name": "GoLand",
+        "experience": "2+ years",
+        "context": "JetBrains IDE optimized for Go development with advanced debugging and refactoring tools",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg"
+      },
+      {
+        "name": "VS Code",
+        "experience": "4+ years",
+        "context": "Lightweight code editor for multi-language development",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+      },
+      {
+        "name": "Postman",
+        "experience": "3+ years",
+        "context": "API development, testing, and automation tool",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+      },
+      {
+        "name": "DBeaver",
+        "experience": "3+ years",
+        "context": "Database management and SQL client for relational systems",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg"
+      },
+      {
+        "name": "Navicat",
+        "experience": "3+ years",
+        "context": "Database design, administration, and management tool for SQL systems",
+        "icon": "https://www.navicat.com/images/05.AboutUs_00_milestone_2021_Navicat.svg"
+      },
+      {
+        "name": "Figma",
+        "experience": "2+ years",
+        "context": "UI/UX design, prototyping, and collaboration tool",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+      },
+      {
+        "name": "draw.io",
+        "experience": "3+ years",
+        "context": "Diagramming and system design tool for architecture visualization and documentation",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/2048px-Diagrams.net_Logo.svg.png"
+      },
+      {
+        "name": "Jira",
+        "experience": "3+ years",
+        "context": "Project management and issue tracking for agile development",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
+      },
+      {
+        "name": "JMeter",
+        "experience": "3+ years",
+        "context": "Performance and load testing tool for APIs and web applications",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "title": "AI & Full Stack in Software Engineer",
+      "company": "FPT Software",
+      "location": "Nha Trang, Viet Nam",
+      "logo": "/professional-experience-logos/fptsw.png",
+      "duration": "Oct 2024 – Present",
+      "description": "Working as a Full Stack Software Engineer in the AI & Automation team at FPT Software. Responsible for developing and maintaining enterprise-level internal systems that integrate with Atlassian Jira and optimize company-wide business processes. Collaborate with cross-functional teams to build scalable features, improve backend performance, and ensure clean, maintainable codebases through continuous integration and code quality tools.",
+      "achievements": [
+        "Develop features for new screens like CRUD, search, sort, import, export excel to serve the entire company's business, integrating them into Jira",
+        "Optimize code back-end, components front-end and migrate legacy systems",
+        "Write and optimize stored procedures, functions and views on MySQL to handle business logic",
+        "Fix bugs on SonarQube, Coverity and Blackduck systems to clean and refactor code"
+      ],
+      "technologies": [
+        "Java",
+        "Spring",
+        "JSP",
+        "Servlet",
+        "JAX-RS",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "MySQL",
+        "Atlassian SDK",
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "LangSmith",
+        "Jmeter",
+        "RabbitMQ",
+        "Redis",
+        "PostgreSQL",
+        "OpenAI",
+        "Docker",
+        "Azure Kubernetes"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Full Stack Developer",
+      "company": "Gira Tech",
+      "location": "Ho Chi Minh, Viet Nam",
+      "logo": "/professional-experience-logos/giraleads.jpg",
+      "duration": "Sep 2023 – Oct 2024",
+      "description": "Worked as a Full Stack Developer responsible for designing and building end-to-end web solutions to support the company’s marketing automation platform. Focused on improving backend performance, ensuring secure API design, and enhancing user experience on the frontend with modern Javascript frameworks and UI libraries.",
+      "achievements": [
+        "Develop additional APIs from existing Java Core codebase",
+        "Optimize multi-threading and network communication (TCP/IP) for performance",
+        "Implement login, register, logout, verify token, resend token, and email/SMS verification",
+        "Design APIs with pagination, sorting, filtering, and validation",
+        "Enhance React-based frontend using Ant Design"
+      ],
+      "technologies": [
+        "Java Core",
+        "Spring Boot",
+        "Spring Security",
+        "Oauth2",
+        "Hibernate",
+        "Spring Data JPA",
+        "Liquibase",
+        "MySQL",
+        "Docker",
+        "React",
+        "Ant Design",
+        "Javascript",
+        "Nginx",
+        "HTML",
+        "CSS",
+        "Jmeter"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Back End Developer",
+      "company": "KingTee",
+      "location": "Ho Chi Minh, Viet Nam",
+      "logo": "/professional-experience-logos/kingtee.jpg",
+      "duration": "Mar 2023 – Sep 2023",
+      "description": "Served as a Backend Developer focusing on building serverless data-driven applications and automation tools for e-commerce management. Designed and deployed APIs using AWS services, integrated third-party SDKs for data synchronization, and automated workflows for reporting and content generation.",
+      "achievements": [
+        "Plan, analyze, and design serverless system architecture",
+        "Implement APIs using AWS Gateway and Lambda",
+        "Integrate Google Sheets API, Amazon Seller API, and Lark API for sales data tracking",
+        "Develop chatbot for notifications on data updates",
+        "Automate image creation and editing with Photoshop SDK, OpenAI, and Javascript"
+      ],
+      "technologies": [
+        "Python",
+        "Javascript",
+        "AWS Gateway",
+        "AWS Lambda",
+        "Photoshop SDK",
+        "Lark SDK",
+        "Google SDK"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 10,
+      "title": "Manage Library",
+      "subtitle": "Event Driven Microservices",
+      "description": "Library management system using event-driven architecture with Spring Cloud, Kafka, and CQRS pattern.",
+      "longDescription": "Designed and built microservice systems based on event-driven architecture using Spring Boot and Spring Cloud. Managed transactions using Saga pattern, configured security with JWT and Redis rate limiter, and implemented CQRS using Axon Framework.",
+      "technologies": [
+        "Java",
+        "Docker",
+        "Axon Framework",
+        "Kafka",
+        "H2 Database",
+        "Spring Boot",
+        "Spring Cloud",
+        "Spring Security",
+        "Spring WebFlux",
+        "Zipkin",
+        "Prometheus",
+        "Grafana",
+        "Redis",
+        "KeyCloak",
+        "MongoDB"
+      ],
+      "github": "https://github.com/tranhuudan-javafullstack/event-sourcing",
+      "categories": ["Backend", "Microservices"],
+      "status": "Completed",
+      "featured": true,
+      "priority": 1,
+      "image": "https://st2.depositphotos.com/1561359/12101/v/950/depositphotos_121012076-stock-illustration-blank-photo-icon.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Recruitment Website",
+      "subtitle": "Microservice System",
+      "description": "Microservice-based recruitment website with service registry, config server, and API gateway for authentication.",
+      "longDescription": "Built microservice ecosystem with Eureka, API gateway, and centralized configuration. Applied FeignClient and WebFlux for inter-service communication and implemented Keycloak authentication.",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "Spring Cloud",
+        "Spring WebFlux",
+        "Spring Security",
+        "Spring Data JPA",
+        "PostgreSQL",
+        "Docker",
+        "Zipkin",
+        "Prometheus",
+        "Grafana"
+      ],
+      "github": "https://github.com/tranhuudan-javafullstack/spring-cloud-microservice",
+      "categories": ["Backend", "Enterprise"],
+      "status": "Completed",
+      "featured": true,
+      "priority": 2,
+      "image": "https://st2.depositphotos.com/1561359/12101/v/950/depositphotos_121012076-stock-illustration-blank-photo-icon.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Document Chatbot",
+      "subtitle": "AI Agent with RAG",
+      "description": "LLM-powered chatbot for document Q&A built using FastAPI, LangChain, and Weaviate.",
+      "longDescription": "Researched BERT/SBERT tuning for Vietnamese, compared embedding models, built backend with FastAPI, MinIO, and Redis, and integrated vector databases for RAG system.",
+      "technologies": [
+        "Python",
+        "Weaviate",
+        "LangChain",
+        "LLamaIndex",
+        "Redis",
+        "HuggingFace",
+        "FastAPI",
+        "React",
+        "MinIO",
+        "MongoDB",
+        "Docker",
+        "Grafana",
+        "Prometheus"
+      ],
+      "github": "https://github.com/tranhuudan-javafullstack/nlp-llm/tree/main/bert",
+      "categories": ["AI/ML", "NLP", "Fullstack"],
+      "status": "Completed",
+      "featured": true,
+      "priority": 3,
+      "image": "https://st2.depositphotos.com/1561359/12101/v/950/depositphotos_121012076-stock-illustration-blank-photo-icon.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Phone Marketplace",
+      "subtitle": "Monolithic MVC E-Commerce",
+      "description": "Full-stack e-commerce platform for mobile phones built on Java JSP/Servlet architecture.",
+      "longDescription": "Implemented RBAC security model with OAuth2, integrated VNPAY and shipping APIs, optimized product management and Excel import/export, and applied digital signature on invoices.",
+      "technologies": [
+        "Java",
+        "Servlet",
+        "JSP",
+        "JDBI",
+        "Sitemesh",
+        "JAX-RS",
+        "Docker",
+        "AWS S3",
+        "AWS CloudFront",
+        "AWS EC2",
+        "AWS Route53",
+        "AWS RDS",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "MDB"
+      ],
+      "github": "https://github.com/tranhuudan-javafullstack/jsp-servlet",
+      "categories": ["Fullstack", "E-Commerce"],
+      "status": "Completed",
+      "featured": true,
+      "priority": 4,
+      "image": "https://st2.depositphotos.com/1561359/12101/v/950/depositphotos_121012076-stock-illustration-blank-photo-icon.jpg"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Research on YouTube Content Gathering Model in ChatGPT",
+      "venue": "Medium",
+      "doi": "10.1109/ICOCT64433.2025.11118397",
+      "url": "#",
+      "date": "Aug 2025",
+      "description": "Explores methods of integrating YouTube content into ChatGPT for improved information retrieval and contextual understanding.",
+      "category": "blog"
+    },
+    {
+      "title": "Research on LLM and Application of Vietnamese Chatbot Supporting Answers for Students",
+      "venue": "IEEE",
+      "url": "#",
+      "date": "Jul 2025",
+      "description": "Develops a Vietnamese chatbot powered by large language models to assist agriculture and forestry students with academic queries.",
+      "category": "research"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Top Learning Hours & Course Completion Award",
+      "organization": "FPT Software",
+      "year": "2025",
+      "description": "Completed 85 AI and software engineering courses with 201 study hours/month, earning Top Learning Hours and Top Course Completion awards.",
+      "category": "corporate"
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "title": "Machine Learning & Deep Learning",
+      "provider": "Coursera",
+      "year": "2025",
+      "description": "Specialized program exploring the core foundations of machine learning and deep learning — including neural networks, computer vision, large language models (LLMs), and MLOps. Focuses on applying AI techniques for real-world data analysis and cloud-based deployment.",
+      "certificates": [
+        {
+          "url": "https://coursera.org/share/322d36a987e6324b260d6f65aa09585f",
+          "title": "Neural Networks and Deep Learning",
+          "year": "2025",
+          "credentialId": "C4S5XQCYCMBC"
+        },
+        {
+          "url": "https://coursera.org/share/5aab3ba9e3ca08186d04ff99117c0cf3",
+          "title": "Introduction to Computer Vision and Image Processing",
+          "year": "2025",
+          "credentialId": "JNBYNU7YCQD9"
+        },
+        {
+          "url": "https://coursera.org/share/035777de8bd19adc16af32035e2778a7",
+          "title": "Operationalizing LLMs on Azure",
+          "year": "2023",
+          "credentialId": "0OVA1T0QMKZC"
+        },
+        {
+          "url": "https://coursera.org/share/1dc43b983a3363d254017b7226c359af",
+          "title": "Preprocessing Unstructured Data for LLMs and RAG Systems",
+          "year": "2025",
+          "credentialId": "226WPV3KSPHC"
+        },
+        {
+          "url": "https://coursera.org/share/cf0460c9b3883453d6848680a46739b8",
+          "title": "Machine Learning for Data Analysis",
+          "year": "2025",
+          "credentialId": "S95RRZA0FWT8"
+        },
+        {
+          "url": "https://coursera.org/share/6d9894bee2a85d338587d0d1409e0b31",
+          "title": "Generative AI for Everyone",
+          "year": "2025",
+          "credentialId": "7I0OI46WF9L6"
+        },
+        {
+          "url": "https://coursera.org/share/959d908855a8afb5230e6725c61ea36b",
+          "title": "Introduction to Generative AI",
+          "year": "2025",
+          "credentialId": "EIN0J307OVJ3"
+        },
+        {
+          "url": "https://coursera.org/share/a010fed61ec5cb6ffa119ececce6f65b",
+          "title": "PyQt Training Advanced Level",
+          "year": "2025",
+          "credentialId": "SF61RCCCRH4L"
+        }
+      ],
+      "skills": [
+        "Artificial Intelligence and Machine Learning (AI/ML)",
+        "Algorithms",
+        "Computer Programming",
+        "Supervised Learning",
+        "Cloud Development",
+        "Data Processing",
+        "Machine Learning",
+        "Image Analysis",
+        "Artificial Neural Networks",
+        "Deep Learning",
+        "Jupyter",
+        "Cloud Applications",
+        "Calculus",
+        "Artificial Intelligence",
+        "Linear Algebra",
+        "Python Programming",
+        "Prompt Engineering",
+        "OpenAI",
+        "Responsible AI",
+        "MLOps (Machine Learning Operations)",
+        "LLM Application",
+        "Microsoft Azure",
+        "Application Programming Interface (API)",
+        "Cloud Computing",
+        "Large Language Modeling",
+        "Scalability",
+        "Application Deployment",
+        "Data Quality",
+        "Data Store",
+        "Application Frameworks",
+        "Real Time Data",
+        "LangChain",
+        "Document Management",
+        "Data Analysis",
+        "Data Mining",
+        "Regression Analysis",
+        "Predictive Analytics",
+        "Classification And Regression Tree (CART)",
+        "Decision Tree Learning",
+        "Unsupervised Learning",
+        "Exploratory Data Analysis",
+        "Predictive Modeling",
+        "Feature Engineering",
+        "Automation",
+        "Generative AI",
+        "Business Process Automation",
+        "AI Product Strategy",
+        "GitHub",
+        "Natural Language Processing",
+        "Data Ethics",
+        "ChatGPT",
+        "Database Design",
+        "Database Management",
+        "Databases",
+        "User Interface (UI)",
+        "MySQL",
+        "Relational Databases",
+        "User Interface (UI) Design",
+        "Application Development",
+        "Database Application"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Microservices",
+      "provider": "Coursera",
+      "year": "2025",
+      "description": "Comprehensive training on microservice architecture and design patterns, emphasizing scalability, fault tolerance, and continuous deployment on Azure Cloud. Covers principles of distributed systems and best practices for enterprise-grade application delivery.",
+      "certificates": [
+        {
+          "url": "https://coursera.org/share/945a686cf465b3d628a549ca55297a32",
+          "title": "Microservice Architectures\n",
+          "year": "2025",
+          "credentialId": "3VLLVJS3MFE6"
+        }
+
+      ],
+      "skills":[
+        "Program Development",
+        "Software Architecture",
+        "Dependency Analysis",
+        "Load Balancing",
+        "Software Design",
+        "Continuous Deployment",
+        "Service Oriented Architecture",
+        "Maintainability",
+        "Distributed Computing",
+        "Java Programming",
+        "Application Deployment",
+        "Scalability"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "LinkedIn Learning",
+      "provider": "LinkedIn Learning",
+      "year": "2024",
+      "certificates": [
+        {
+          "url": "https://www.linkedin.com/posts/danth-ai-swe_certificate-of-completion-activity-7355258336491065345-i0JQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERIrBcBs9UqfJMTGGKPW3wMAeCCjUdiEhk",
+          "title": "Advance Your Skills in Deep Learning and Neural Networks",
+          "year": "2025",
+          "credentialId": "9eda237790ceef0daa3a0ea39e7029b1b4e3acbd1648f4194bfc1e69289283fd"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/danth-ai-swe_certificate-of-completion-activity-7380188052914237440-RJ5C?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERIrBcBs9UqfJMTGGKPW3wMAeCCjUdiEhk",
+          "title": "Advance Your Skills in AI and Machine Learning",
+          "year": "2025",
+          "credentialId": "bcec99413db64451f3038cf58abe4d69f2d3d44a491e047a282ea3595b107cb2"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/danth-ai-swe_certificate-of-completion-activity-7380181252575809536-h8CH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERIrBcBs9UqfJMTGGKPW3wMAeCCjUdiEhk",
+          "title": "Fundamentals to Become a Machine Learning Engineer",
+          "year": "2025",
+          "credentialId": "160d5348c8c60409013a482d8a78d677dbc240745b6cb605ae8c273f3360dcc5"
+        }
+      ],
+      "description": "Series of advanced AI and deep learning certifications focused on mastering neural networks, generative models, and reinforcement learning. Strengthens practical expertise for building, training, and optimizing intelligent systems.",
+      "skills": [
+        "Neural Networks",
+        "Deep Neural Networks (DNN)",
+        "Machine Learning",
+        "Deep Learning",
+        "Generative Adversarial Networks (GANs)",
+        "Reinforcement Learning",
+        "Artificial Intelligence (AI)",
+        "Deep Learning Neural Networks"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Tran Huu Dan - Generative AI Engineer & Full-Stack Developer",
+    "description": "Associate Software Engineer at Lowe's specializing in AI-driven automation, Full-Stack development and accessibility technology. Expert in Python, React.js, and cloud technologies.",
+    "keywords": [
+      "Owais Iqbal",
+      "AI Engineer",
+      "Full Stack Developer",
+      "Python",
+      "React",
+      "Machine Learning",
+      "Accessibility Technology",
+      "Lowe's",
+      "Software Engineer",
+      "Bangalore",
+      "Generative AI",
+      "Ramaiah Institute of Technology",
+      "Zebra Technologies",
+      "Unisys",
+      "Presidency",
+      "lowes"
+    ],
+    "ogImage": "/me.jpg",
+    "googleSiteVerification": "zcmW3k2MLZqYqD7sXF8Ot4UuRn25gif-WWZjs1wwrM0",
+    "icon": {
+      "icon": "/favicon.ico",
+      "appleTouchIcon": "/apple-touch-icon.png"
+    }
+  }
+}

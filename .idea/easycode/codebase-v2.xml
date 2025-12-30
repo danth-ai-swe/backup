@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/langchain_test/chunking/agentic.py;/Users/huudan/Development/huudan.com/langchain_test/chunking/by_token.py;/Users/huudan/Development/huudan.com/langchain_test/chunking/model.py;/Users/huudan/Development/huudan.com/langchain_test/chunking/recursive.py;/Users/huudan/Development/huudan.com/langchain_test/chunking/semantic.py;/Users/huudan/Development/huudan.com/langchain_test/chunking/specific.py;/Users/huudan/Development/huudan.com/langchain_test/chunking/utils.py;/Users/huudan/Development/huudan.com/langchain_test/utils/__init__.py;/Users/huudan/Development/huudan.com/langchain_test/utils/app.py;/Users/huudan/Development/huudan.com/langchain_test/utils/minio.py;/Users/huudan/Development/huudan.com/langchain_test/utils/model.py;/Users/huudan/Development/huudan.com/langchain_test/chunk.py;/Users/huudan/Development/huudan.com/langchain_test/config_app.py;/Users/huudan/Development/huudan.com/langchain_test/generate_embedding.py;/Users/huudan/Development/huudan.com/weaviate_test/weaviate_rag_non_tenant.py" />
+  </component>
+</project>

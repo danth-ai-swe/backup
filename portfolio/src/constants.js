@@ -1,0 +1,1 @@
+export const publicUrl = "https://danth.id.vn"
